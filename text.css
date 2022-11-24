@@ -1,0 +1,40 @@
+body{
+background-image:url("bg.jpeg");
+background-size:1600px}
+
+text{
+font-family:papyrus;
+font-size:50px}
+
+h1{
+text-align:center;
+font-family:cursive;
+color:white;
+font-size:70px}
+
+a{
+font-size:40px;
+font-family:papyrus}
+
+.CV text{
+font-family:papyrus;
+color:black;
+font-size:30px}
+
+.CV{
+background-image:linear-gradient(to top ,white, grey)}
+
+.DS{
+background-image:linear-gradient(to top,white,grey)}
+.DS text{
+font-family:papyrus;
+color:black;
+font-size:30px}
+
+
+.NLP{
+background-image:linear-gradient(to top,white,grey)}
+.NLP text{
+font-family:papyrus;
+color:black;
+font-size:30px}
